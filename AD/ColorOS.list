@@ -1,10 +1,9 @@
-DOMAIN-SUFFIX,taboola.comcom.oplus.appdetail
-DOMAIN-SUFFIX,taboola.comcom.coloros.phonemanager
-DOMAIN-SUFFIX,taboola.comcom.android.packageinstaller
-DOMAIN-SUFFIX,taboola.comcom.oplus.safecenter
-DOMAIN-SUFFIX,taboola.comcom.android.safetycenter.resources
-DOMAIN-SUFFIX,taboola.comhicorenational.antifraud
-DOMAIN-SUFFIX,taboola.comcom.hicorenational.antifraud
+DOMAIN-SUFFIX,com.oplus.appdetail
+DOMAIN-SUFFIX,com.coloros.phonemanager
+DOMAIN-SUFFIX,com.android.packageinstaller
+DOMAIN-SUFFIX,com.oplus.safecenter
+DOMAIN-SUFFIX,com.android.safetycenter.resources
+DOMAIN-SUFFIX,com.hicorenational.antifraud
 IP-CIDR,120.76.141.58/32
 IP-CIDR,49.7.228.53/32
 IP-CIDR,14.29.101.168/32
