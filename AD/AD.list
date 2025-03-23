@@ -797,7 +797,6 @@ DOMAIN-SUFFIX,com.coloros.phonemanager
 DOMAIN-SUFFIX,com.android.packageinstaller
 DOMAIN-SUFFIX,com.oplus.safecenter
 DOMAIN-SUFFIX,com.android.safetycenter.resources
-DOMAIN-SUFFIX,hicorenational.antifraud
 DOMAIN-SUFFIX,com.hicorenational.antifraud
 IP-CIDR,120.76.141.58/32
 IP-CIDR,49.7.228.53/32
