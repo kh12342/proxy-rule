@@ -191,13 +191,12 @@ proxy-groups:
   - name: Emby
     type: select
     proxies:
+      - 🎬 0.2X
       - 🇭🇰 HKG
       - 🇹🇼 TWN
       - 🇸🇬 SGP
       - 🇯🇵 JPN
       - 🇺🇲 USA
-      - 🌍 Global
-      - 🎬 0.2X
 
   - name: Google
     <<: *proxy_groups
