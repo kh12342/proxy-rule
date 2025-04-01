@@ -41,11 +41,11 @@ All: &All
 proxy-providers:
   1.ImmTelecom:
     <<: *p
-    url: "url1"
+    url: ""
     
   2.FlowerCloud:
     <<: *p
-    url: "url2"
+    url: ""
 
 
 profile:
@@ -141,7 +141,6 @@ proxy_groups: &proxy_groups
       - 🌎 Direct
       - ⛔️ Reject
       - ♻️ Urltest
-      - ♻️ Fallback
 
 
 proxy-groups:
@@ -184,6 +183,7 @@ proxy-groups:
       - 🇭🇰 HKG
       - 🇹🇼 TWN
       - 🎬 0.2X
+      - 🎯 Proxies
 
   - name: BiliBili
     <<: *proxy_groups
@@ -192,11 +192,7 @@ proxy-groups:
     type: select
     proxies:
       - 🎬 0.2X
-      - 🇭🇰 HKG
-      - 🇹🇼 TWN
-      - 🇸🇬 SGP
-      - 🇯🇵 JPN
-      - 🇺🇲 USA
+      - 🎯 Proxies
 
   - name: Google
     <<: *proxy_groups
